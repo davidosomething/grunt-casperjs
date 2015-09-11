@@ -1,5 +1,5 @@
 {
-  "name": "grunt-casperjs-fork",
+  "name": "grunt-casperjs",
   "description": "With this grunt.js task you can run tests with CasperJS.",
   "version": "2.2.0",
   "homepage": "https://github.com/davidosomething/grunt-casperjs",
